@@ -14,7 +14,7 @@ const Formulario = styled.form`
   margin-top: 40px;
 `
 
-const Campo = styled.input.attrs({ type: 'search' })`
+const Campo = styled.input`
   padding: 0 16px;
   outline-color: var(--cor-principal);
   font-size: 16px;
